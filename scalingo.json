@@ -27,10 +27,6 @@
       "description": "URL of the initial site sending analytics",
       "required": true
     },
-    "MAIL_URL": {
-      "description": "URL to the mailserver which is going to send Matomo emails",
-      "required": false
-    },
     "MATOMO_LICENSE_KEY": {
       "description": "Matomo API key used for fetching purchased plugins",
       "required": false
