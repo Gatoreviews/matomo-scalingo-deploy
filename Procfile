@@ -1,0 +1,1 @@
+postdeploy: chmod +x setup.sh && ./setup.sh
